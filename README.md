@@ -17,7 +17,7 @@
 minitalk is a 42 project designed to make processes communicate through the use of user-defined signals (SIGUSR1 and SIGUSR2). These signals are used to send bits from one process to the other and are then interpreted to rebuild the message.
 
 ## Usage
-Just run `make` to get the executables.
+Run `make` to get the executables.
 
 1. **Start the server:**
 ```bash
